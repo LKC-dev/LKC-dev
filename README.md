@@ -5,7 +5,7 @@
 - 📫 How to reach me: email: lkcampos1@outlook.com, Whatsapp: 5551997884904
 - ⚡ Fun fact: I Was a technical translator, before getting into data analysis and then Data engineering
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LKC-dev)](https://github.com/LKC-dev/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
