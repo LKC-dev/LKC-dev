@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on V4 Company...
-- 🌱 I’m currently learning Python, SQL, Data Engineering...
-- 📫 How to reach me: email: lkcampos1@outlook.com
-- ⚡ Fun fact: I Was a technical translator, before getting into data analysis and then Data engineering
+- 💻 **Data Engineer**
+- 🔭 I’m currently working on V4 Company
+- 🌱 I’m currently learning **Python, SQL, Data Engineering**
+- 📫 How to reach me: **email**: lkcampos1@outlook.com
+- ⚡ Fun fact: **I Was a technical translator, before getting into data analysis and then Data engineering**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
