@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**LKC-dev/LKC-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on V4 Company...
 - 🌱 I’m currently learning Python, SQL, Data Engineering...
 - 📫 How to reach me: email: lkcampos1@outlook.com, Whatsapp: 5551997884904
@@ -23,8 +18,3 @@ Here are some ideas to get you started:
   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png">
 </div>
   
-
-
-
-
--->
