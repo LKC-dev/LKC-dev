@@ -7,12 +7,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Lucas-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Lucas-Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Lucas-Pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Lucas-Pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg">
   <img align="center" alt="Lucas-SQLalchemy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
-  <img align="center" alt="Lucas-Sqlserver" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-  <img align="center" alt="Lucas-Postgresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Lucas-Sqlserver" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Lucas-Postgresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Lucas-PowerBI" height="60" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png">
 </div>
 
