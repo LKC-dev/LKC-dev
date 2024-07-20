@@ -15,9 +15,6 @@
   <img align="center" alt="Lucas-Postgresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Lucas-PowerBI" height="60" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LKC-dev)](https://github.com/LKC-dev/github-readme-stats)
-  ##
  
 <div> 
   <a href="https://wa.me/5551997884904" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
