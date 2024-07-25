@@ -14,6 +14,7 @@
   <img align="center" alt="Lucas-Sqlserver" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Lucas-Postgresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Lucas-PowerBI" height="60" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png">
+  <img align="center" alt="Lucas-Airflow" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png?20191014185111">
 </div>
  
 <div> 
