@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 💻 **Data Engineer**
-- 🔭 I’m currently working at Compass UOL
 - 🌱 I’m currently learning **Spark and Databricks**
 - 📫 How to reach me: **email**: lkcampos1@outlook.com
 - ⚡ Fun fact: **I Was a technical translator, before getting into data analysis and then Data engineering**
